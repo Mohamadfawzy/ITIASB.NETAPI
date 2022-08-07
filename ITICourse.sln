@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITICourse", "ITICourse\ITICourse.csproj", "{2C2E7328-71A7-4DF2-8A6B-23007AA5D88A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2E7328-71A7-4DF2-8A6B-23007AA5D88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2E7328-71A7-4DF2-8A6B-23007AA5D88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2E7328-71A7-4DF2-8A6B-23007AA5D88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2E7328-71A7-4DF2-8A6B-23007AA5D88A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A57CD6-D3A6-49CA-BB6A-B018FCCF83F7}
+	EndGlobalSection
+EndGlobal
